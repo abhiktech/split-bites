@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436364719267",
+    "project_id": "sbabhik",
+    "storage_bucket": "sbabhik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436364719267:android:a8f54a80db8ea478623b16",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dWRA_Hjjw4cdd6Gx-jzW3G_wUbvEaEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
